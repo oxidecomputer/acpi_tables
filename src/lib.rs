@@ -14,6 +14,7 @@ pub mod bert;
 pub mod cedt;
 pub mod facs;
 pub mod fadt;
+pub mod fadt_3;
 pub mod gas;
 pub mod hest;
 pub mod hmat;
